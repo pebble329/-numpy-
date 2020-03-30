@@ -10,7 +10,7 @@
 * np_cn_9.py  cn_array继承编译了numpy.ndarray大部分函数，可以当做ndarray使用
 
 
-*  Untitled3.ipynb 展示了np_cn_9.py 使用的例子
+*  np_cn使用例子.ipynb 展示了np_cn_9.py 使用的例子
 
 
 
